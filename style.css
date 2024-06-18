@@ -1,0 +1,17 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+
+}
+.swiper-slide > div:first-child{
+     background: url(img/CaikePro.jpg) no-repeat;
+}
+
+.swiper-wrapper > div:nth-child(2) {
+    background: url(img/JuliaChitarra.jpg) no-repeat;
+ }
+
+ .swiper-wrapper > div:nth-child(3) {
+     background: url(img/RamonECbum.webp) no-repeat;
+ }
