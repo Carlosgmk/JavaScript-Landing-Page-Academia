@@ -9,6 +9,7 @@
   text-transform: capitalize;
   font-family: "Nunito", sans-serif;
   transition: all 0.2s linear;
+  
 }
 
 html {
@@ -28,8 +29,13 @@ html::-webkit-scrollbar-thumb {
   background-color: #5f6363;
 }
 body {
-  background-color: #000;
+  background-color: #000000;
 }
+body, html {
+    overflow-x: hidden;
+    
+  }
+
 section {
   padding:  9%;
 }
