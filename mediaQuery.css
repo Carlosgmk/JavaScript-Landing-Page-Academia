@@ -103,8 +103,13 @@
                border-radius: .5rem;
            }
 
-           /* .newsletter{ */
-               /* margin-bottom: 100px; */
-           /* } */
+           .footer{
+               margin-bottom: 30px;
+           }
+
+           .footer .email{
+               /* background-color: red !important; */
+               width: 180px !important;
+           }
 }
 

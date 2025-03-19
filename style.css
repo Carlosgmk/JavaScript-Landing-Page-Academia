@@ -114,6 +114,7 @@ section {
      transparent 90%);
      color: #fff;
      cursor: pointer;
+     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
      font-size: 1.7rem;
  }
  .btn:hover {
@@ -126,6 +127,7 @@ section {
     display: inline-block;
     padding: 1rem 3rem;
     background-color:rgb(5, 238, 21); 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
     color: #fff; /* Cor do texto */
     font-size: 1.6rem;
     font-weight: 600;
@@ -281,6 +283,7 @@ section {
  .about .content .title {
      font-size: 4rem;
      color: #fff;
+     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
      margin-top: .5rem;
  }
  .about .content p {
@@ -659,5 +662,11 @@ section {
      color: #fff;
      text-transform: none;
  }
- 
+ .newsletter{
+    padding: 15px;
+    background-color: #05EE15;
+    color: #ffffff;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+ }
  
